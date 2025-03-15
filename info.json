@@ -6,5 +6,5 @@
 	"EntryMethod": "passengers_ui_mod.Main.Load",
 	"AssemblyName": "passengers_ui_mod.dll",
 	"HomePage": "https://www.nexusmods.com/railroader/mods/38",
-	"Repository": "https://github.com/Hellboy2314/mods/raw/master/repository.json"
+	"Repository": "https://raw.githubusercontent.com/Hellboy2314/passengers_ui_mod/master/repository.json"
 }
